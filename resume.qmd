@@ -1,89 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zachery Volmer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zachery Volmer
+Computer Science student at BYU-Idaho (certificates in Computer Programming & Machine Learning; minor in Music) seeking a software development internship.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+zvolmer@byui.edu | 509-964-4009 | <a href="https://www.linkedin.com/in/zac-volmer/">LinkedIn</a> | <a href="https://github.com/zvolmer">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Computer Science student at BYU-Idaho (certificates in Computer Programming & Machine Learning; minor in Music) seeking a software development internship.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Strong knowledge of Python and C#.
+Moderate knowledge of SQL, Pandas, HTML, and CSS.
+Beginner knowledge of JavaScript, TypeScript, React Native and Unity.
+Teamwork, leadership, critical thinking and problem solving.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+React Native app group project.
+Website for band.
+Unity Target Shooter Game.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2024 - Present`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelors; Computer Science
+- Current GPA: 3.6
 
-- Sizar
+`September 2022 - June 2024`
+__Columbia Basin College__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Associate; Arts and Sciences
+- GPA: 3.67
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+<!-- No awards listed -->
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- Projects -->
 
-### Journals
+### Projects
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Ongoing`
+React Native app group project.
 
-`1669`
-Lectiones opticæ.
+`Ongoing`
+Website for band.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Ongoing`
+Unity Target Shooter Game.
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2020 - Present`
+__(self-employed) - Musician__, Richland, WA
 
-- Warden
-- Minted coins
+- Founded and managed a band - handled scheduling, booking, and logistics for rehearsals, recording sessions, and live concerts. Collaborated closely with a recording engineer to record two full-length albums and one EP.
+- Mixed and mastered one album; earned professional certification in Pro Tools to improve production quality and workflow.
+- Executed marketing and distribution strategies generating 50,000+ streams and ~200 CD sales.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2022 - December 2025`
+__Jamba - Shift Lead__, Richland, WA
 
+- Operated register and managed customer transactions with precision and efficiency.
+- Prepared smoothies and food items to uphold brand standards during peak hours.
+- Provided leadership by delegating tasks and supporting team workflow.
+- Maintained a clean and safe work environment through routine cleaning and equipment upkeep.
 
+`January 2024 - December 2024`
+__Temp-Co Heating - HVAC Assistant__, St. George, Utah
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Shadowed lead technicians in balancing air-conditioning units to optimize airflow and system performance.
+- Accurately labeled piping, ductwork, and system components on construction sites to support installation and future maintenance.
